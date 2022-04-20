@@ -41,7 +41,4 @@ If you find our code useful, please also consider citing the POMO paper:
   volume = {33},
   year = {2020}
 }
-
-
 ```
-
