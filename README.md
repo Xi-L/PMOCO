@@ -24,7 +24,7 @@ If our work is helpful for your research, please cite our paper:
 ```
 @inproceedings{lin2022pareto,
   title={Pareto Set Learning for Neural Multi-Objective Combinatorial Optimization},
-  author={Xi Lin, Zhiyuan Yang, Qingfu Zhang},
+  author={Lin, Xi and Yang, Zhiyuan and Zhang, Qingfu},
   booktitle={International Conference on Learning Representations},
   year={2022},
   url={https://openreview.net/forum?id=QuObT9BTWo}
@@ -35,7 +35,7 @@ If you find our code useful, please also consider citing the POMO paper:
 ```
 @inproceedings{Kwon2020pomo,
   title = {POMO: Policy Optimization with Multiple Optima for Reinforcement Learning},
-  author = {Yeong-Dae Kwon, Jinho Choo, Byoungjip Kim, Iljoo Yoon, Youngjune Gwon, Seungjai Min},
+  author = {Kwon, Yeong-Dae and Choo, Jinho and Kim, Byoungjip and Yoon, Iljoo and Gwon, Youngjune and Min, Seungjai},
   booktitle = {Advances in Neural Information Processing Systems},
   pages = {21188--21198},
   volume = {33},
